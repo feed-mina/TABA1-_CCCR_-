@@ -23,7 +23,7 @@ ImageNet 모델링 생성 프로젝트 : 단국대학교와 한국클라우드�
 > “AI 모델 분석과 시각화를 이해하는 손을 키울 수 있는 기회였습니다.”
 > 기계학습의 흐름을 따라가며 각 모델 성능의 차이를 수치로 증명해보는 훈련이 되었고,
 > 논문 기반 모델 학습, 팀 단위 실험 설계, 성과 발표까지 경험한 첫 프로젝트였습니다.
-- **발표 자료 PDF**: [IMAGENET_8조_최종.pdf 다운로드](https://github.com/feed-mina/TABA1-_CCCR_-/raw/main/IMAGENET_8조_최종.pdf)
+- **발표 자료 PDF**: [IMAGENET_8조_최종.pdf 다운로드](https://github.com/feed-mina/TABA1-_CCCR_-/raw/master/TABA_Presentation.pdf)
 
 
 ---
